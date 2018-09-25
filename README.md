@@ -13,5 +13,11 @@ And because I'm a big lover of both Max and Node.js, made a simple project that 
 c.f. `API_KEY=2asdfjewaksdflkj61e9c`  
 *Above is a gibberish fake ID.*
 1. In terminal, `npm install`
+
+# Execution
 1. Open up `main.maxpat` and press the `script start` message.
 1. Provide an argument to the `search $1` message object with a city name of your choice! 
+
+![sep-26-2018 08-29-22](https://user-images.githubusercontent.com/14039540/46048829-692a3980-c166-11e8-8c5d-3eb0968797c3.gif)
+
+**There you have an API fired inside a Max patch!**
