@@ -10,7 +10,7 @@ And because I'm a big lover of both Max and Node.js, made a simple project that 
 1. Clone/download this repository.
 1. Create an `.env` file in the root directory of the project.
 1. Within the `.env` file, set *your* API Key (given by OpenWeatherAPI) to `API_KEY` variable.  
-c.f. `API_KEY=2asdfjewaksdflkj61e9c`  
+e.g. `API_KEY=2asdfjewaksdflkj61e9c`  
 *Above is a gibberish fake ID.*
 1. In terminal, `npm install`
 
